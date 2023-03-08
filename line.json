@@ -1,0 +1,15 @@
+{
+    "czmObject": {
+        "xbsjType": "Tileset",
+        "xbsjGuid": "f920228a-b135-41ec-8b6f-22f7d7e81388",
+        "name": "line",
+        "url": "file://C:/Users/gpb/Desktop/nginx-1.18.0/data/OUT/line/tileset.json",
+        "xbsjPosition": [
+            1.854138306320583,
+            0.6712510743711025,
+            1107.1867675776823
+        ],
+        "xbsjClippingPlanes": {},
+        "xbsjCustomShader": {}
+    }
+}
